@@ -1,1 +1,3 @@
 fjdkdkdkdkdkdkdkdkdkdk
+
+Logger.Info("Click","Manual-dsds","sdds");
